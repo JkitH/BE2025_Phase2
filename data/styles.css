@@ -1,0 +1,345 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.shape {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.horizontal_line {
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+.text____ant5_0blue {
+  color:#1677FF;
+  text-align:left;
+}
+.text____ant5_0blue1 {
+  color:#FF4D4F;
+  text-align:left;
+}
+.text_____ant5_0blue {
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+}
+.text_____ant5_0blue1 {
+  color:rgba(0, 0, 0, 0.447058823529412);
+  text-align:left;
+}
+.text_____ant5_0blue2 {
+  color:rgba(0, 0, 0, 0.247058823529412);
+  text-align:left;
+}
+.btn_______ant5_0blue {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:22px;
+}
+.btn____hover_ant5_0blue {
+}
+.btn_______ant5_0blue1 {
+}
+.btn_______ant5_0blue2 {
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:center;
+}
+.btn____hover_ant5_0blue1 {
+  color:#1677FF;
+}
+.btn_______ant5_0blue3 {
+  color:#0958D9;
+}
+.btn_______ant5_0blue4 {
+  color:#1677FF;
+  text-align:center;
+}
+.btn____ant5_0blue {
+  color:rgba(0, 0, 0, 0.247058823529412);
+  text-align:center;
+}
+.btn_______ant5_0blue5 {
+  color:rgba(0, 0, 0, 0.87843137254902);
+}
+.btn________ant5_0blue {
+  color:#1677FF;
+}
+.color_bg____ant5_0blue {
+  color:#FFFFFF;
+}
+.color_bg____hover_ant5_0blue {
+  color:#FFFFFF;
+  text-align:center;
+}
+.color_bg____ant5_0blue1 {
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+.color_bg____ant5_0blue2 {
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+.color_bg___hover_ant5_0blue {
+}
+.color_bg______ant5_0blue {
+  color:rgba(0, 0, 0, 0.850980392156863);
+}
+.color_bg___________ant5_0blue {
+  color:#1677FF;
+}
+.color_bg_____ant5_0blue {
+  color:#FFFFFF;
+  text-align:center;
+}
+.color_bg_____ant5_0blue1 {
+  color:#FFFFFF;
+  text-align:center;
+}
+.color_bg_____ant5_0blue2 {
+  color:#FFFFFF;
+  text-align:center;
+}
+.color_bg______ant5_0blue1 {
+}
+.color_bg_____ant5_0blue3 {
+}
+._输入框_默认—ant5_0blue {
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:22px;
+}
+.____hover_ant5_0blue {
+}
+._输入框_获取焦点—ant5_0blue {
+}
+._输入框_禁用—ant5_0blue {
+  color:rgba(0, 0, 0, 0.247058823529412);
+}
+._输入框_校验错误—ant5_0blue {
+  text-align:left;
+  line-height:22px;
+}
+._____ant5_0blue {
+  color:rgba(0, 0, 0, 0.87843137254902);
+}
+.______ant5_0blue {
+  font-size:12px;
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:20px;
+}
+.______ant5_0blue1 {
+  font-size:12px;
+  color:#F5222D;
+  text-align:left;
+  line-height:20px;
+}
+._标签页_可选—ant5_0blue {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:22px;
+}
+.____hover_ant5_0blue1 {
+  color:#2970FF;
+}
+._标签页_选中—ant5_0blue {
+  font-size:14px;
+  color:#1677FF;
+  text-align:left;
+  line-height:22px;
+}
+._标签页_禁用—ant5_0blue {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.247058823529412);
+  text-align:left;
+  line-height:22px;
+}
+.form_hint_ant5_0blue {
+  color:rgba(0, 0, 0, 0.247058823529412);
+}
+._左侧导航_浅色_一级默认—ant5_0blue {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:22px;
+}
+.__________hover_ant5_0blue {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_浅色_一级选中—ant5_0blue {
+  font-size:14px;
+  color:#1677FF;
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_浅色_二级默认—ant5_0blue {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:22px;
+}
+.__________hover_ant5_0blue1 {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.87843137254902);
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_浅色_二级选中—ant5_0blue {
+  font-size:14px;
+  color:#1677FF;
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_深色_一级默认—ant5_0blue {
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.647058823529412);
+  text-align:left;
+  line-height:22px;
+}
+.__________hover_ant5_0blue2 {
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_深色_一级选中—ant5_0blue {
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_深色_二级默认—ant5_0blue {
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.647058823529412);
+  text-align:left;
+  line-height:22px;
+}
+.__________hover_ant5_0blue3 {
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+._左侧导航_深色_二级选中—ant5_0blue {
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+.paragraph1 {
+  text-align:left;
+}
+.line {
+}
+.heading_11 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.shape1 {
+}
+.ellipse {
+}
+._文本段落 {
+  font-size:13px;
+  text-align:left;
+}
+._形状 {
+  font-size:13px;
+}
+._线段 {
+  font-size:13px;
+}
+.image1 {
+  color:#000000;
+}
+.iconfont {
+  font-family:'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+textarea, select, input, button { outline: none; }
