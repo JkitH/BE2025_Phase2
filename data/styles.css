@@ -322,6 +322,10 @@
 }
 .ellipse {
 }
+._图片_ {
+  font-size:13px;
+  color:#000000;
+}
 ._文本段落 {
   font-size:13px;
   text-align:left;
