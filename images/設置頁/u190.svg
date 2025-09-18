@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="6px" height="6px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -222 -444 )">
-    <path d="M 225 444  C 226.68 444  228 445.32  228 447  C 228 448.68  226.68 450  225 450  C 223.32 450  222 448.68  222 447  C 222 445.32  223.32 444  225 444  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="6px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip26">
+      <path d="M 134 394  C 132.335 394  131 392.665  131 391  L 131 391  C 131 389.335  132.335 388  134 388  L 139 388  L 139 394  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -131 -388 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="8" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAYCAYAAADtaU2/AAAAAXNSR0IArs4c6QAAAYRJREFUSA3Flj1KBDEUgGfUUu0sFLaz8Qi2NhYeQBB1/VnXn/XvBF7AA4gXsBMbj2AjYmFvL1hYCoo6fk+YJWRfMgmb4IOPySQv70tmyDBF8U9R5vZWVTWHYxFe4Losy6/czgJpBz6hjjsaY1nFCHbgpzYa12URj+SwI+lQ9xK0VzmdwymPdxu0ncqm5bHLO08bFPVJZTHyJNIGRbfAtVPp76Y1Uo2im/ANWoh01yllcArO4AKWnInWALlDSccp8AxmHFmOgVuSN8C3072BSWYHk+X92PFOR8vMM9uMtcEn3Tfz1TYFeqDFlTaBxDa4pFKnWSqFSWzBh8xQYt6UM74OPumBmd/Ypti5IpWue/j7AnFdA5+01yiyEyg4Ca+ghQhXwSc9tGsG31O4q1npe8smldVRfBSeICYaj13QzjEuRFiPg4qGJiG+CZCnlcrikM6C63jJmk5CNxGdR3HX8TqNLhYzAbF8vx+hDjlKyXaq/Zr014dogpsVmIFb/hAf+oNDNn4BuyCJ5YIGF4sAAAAASUVORK5CYII=" x="131px" y="388px" mask="url(#clip26)" />
   </g>
 </svg>
